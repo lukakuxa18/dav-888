@@ -1,0 +1,68 @@
+.b{
+	background-image: url('../images/mugiwara.jpg');
+	width: 1000px;
+	height: 700px;
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-position: center;
+	color: yellow;
+	font-size: 12px;
+}
+.Luffy{
+	background-image: url('../images/young luffy.jpg');
+	width: 250px;
+	height: 250px;
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-position: center;
+	display: inline-block;
+	transition-property: all;
+	transition-duration: 0.3s;
+	transition-delay: 0.3s;
+	transition-timing-function: ease;
+}
+.sanji{
+	background-image: url('../images/young sanji.jpg');
+	width: 250px;
+	height: 250px;
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-position: center;
+	display: inline-block;
+	transition-property: all;
+	transition-duration: 0.3s;
+	transition-delay: 0.3s;
+	transition-timing-function: ease;
+}
+.zoro{
+	background-image: url('../images/youngzoro.jpg');
+	width: 250px;
+	height: 250px;
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-position: center;
+	display: inline-block;
+	transition-property: all;
+	transition-duration: 0.3s;
+	transition-delay: 0.3s;
+	transition-timing-function: ease;
+}
+.Luffy:hover{
+	width: 400px;
+	height: 400px;
+	background-image: url('../images/badass luffy.gif');
+	margin-right: 30px;
+
+}
+.sanji:hover{
+	width: 400px;
+	height: 400px;
+	background-image: url('../images/badass sanji.jpg');
+	margin-left: 30px;
+}
+.zoro:hover{
+	width: 400px;
+	height: 400px;
+	background-image: url('../images/badass zoro.jpg');
+	margin-left: 30px;
+}
